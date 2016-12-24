@@ -1,4 +1,5 @@
 # Brian Burke and Adam Belmnahia 
+#Binghamton University - Fall 2016
 all: Tree
 
 Tree: TreeInst.o main.o ThreeAryTreeInst.o
