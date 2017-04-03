@@ -1,3 +1,2 @@
-# CS240
-Labs from CS240 
+# CS240: Data Structures & Algorithms
 Binghamton University - Fall 2016
